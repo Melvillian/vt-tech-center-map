@@ -54,7 +54,7 @@ const vtTechCenters = [
             "Culinary Arts"
         ],
         programCategories: ["trades", "tech", "healthcare", "automotive", "culinary"],
-        website: "https://www.cte.org/",
+        website: "https://www.ewsd.org/cte",
         notes: "Serves Chittenden County and surrounding areas"
     },
     {
@@ -79,7 +79,7 @@ const vtTechCenters = [
             "Early Childhood Education"
         ],
         programCategories: ["trades", "healthcare", "automotive", "culinary", "tech"],
-        website: "https://cvcc.education/",
+        website: "https://www.cvtcc.org/",
         notes: "Independent district since 2022; automotive program more competitive than UVM admission"
     },
     {
@@ -103,7 +103,7 @@ const vtTechCenters = [
             "Business Technology"
         ],
         programCategories: ["trades", "automotive", "healthcare", "tech"],
-        website: "http://www.coldhollowcareercenter.org/",
+        website: "https://chcc.fnesu.org/",
         notes: "Rural Franklin County location"
     },
     {
@@ -153,7 +153,7 @@ const vtTechCenters = [
             "Welding"
         ],
         programCategories: ["trades", "automotive", "culinary", "healthcare", "tech"],
-        website: "https://www.hactc.us/",
+        website: "https://hactc.com/",
         notes: "Upper Valley region"
     },
     {
@@ -200,7 +200,7 @@ const vtTechCenters = [
             "Digital Media"
         ],
         programCategories: ["trades", "automotive", "healthcare", "tech"],
-        website: "https://www.ncuhs.org/domain/29",
+        website: "https://nc3.ncsuvt.org/",
         notes: "Northeast Kingdom location"
     },
     {
@@ -225,7 +225,7 @@ const vtTechCenters = [
             "Welding"
         ],
         programCategories: ["trades", "automotive", "culinary", "healthcare", "tech"],
-        website: "https://www.nwctc.org/",
+        website: "https://www.maplerun.org/o/nwtc",
         notes: "Serves Franklin/Grand Isle Counties; all but two programs running waitlists"
     },
     {
@@ -251,7 +251,7 @@ const vtTechCenters = [
             "Welding"
         ],
         programCategories: ["trades", "automotive", "culinary", "healthcare"],
-        website: "https://www.hannafordcc.org/",
+        website: "https://www.hannafordcareercenter.org/",
         notes: "Serves Addison County"
     },
     {
@@ -275,7 +275,7 @@ const vtTechCenters = [
             "Digital Design"
         ],
         programCategories: ["trades", "automotive", "healthcare", "tech"],
-        website: "https://www.randolphrtcc.org/",
+        website: "https://rtcc.orangesouthwest.org/",
         notes: "Central Vermont location"
     },
     {
@@ -300,7 +300,7 @@ const vtTechCenters = [
             "Welding"
         ],
         programCategories: ["trades", "automotive", "culinary", "healthcare", "tech"],
-        website: "https://www.rivervalleytech.org/",
+        website: "https://rvtc.org/",
         notes: "Southeastern Vermont"
     },
     {
@@ -324,7 +324,7 @@ const vtTechCenters = [
             "Business Technology"
         ],
         programCategories: ["trades", "automotive", "healthcare", "tech"],
-        website: "https://www.riverbendcte.org/",
+        website: "https://www.rbctc.org/",
         notes: "Serves Orange East region"
     },
     {
@@ -349,7 +349,7 @@ const vtTechCenters = [
             "Welding"
         ],
         programCategories: ["trades", "automotive", "culinary", "healthcare"],
-        website: "https://www.southwesttech.org/",
+        website: "https://www.svcdc.org/",
         notes: "Southwestern Vermont"
     },
     {
@@ -376,7 +376,7 @@ const vtTechCenters = [
             "Welding"
         ],
         programCategories: ["trades", "automotive", "culinary", "healthcare", "tech"],
-        website: "https://www.rutlandcte.org/",
+        website: "https://staffordonline.org/",
         notes: "Second-largest CTE center in Vermont; 14 full-day programs; ~262 seat capacity with 380+ applicants"
     },
     {
@@ -425,7 +425,7 @@ const vtTechCenters = [
             "Welding"
         ],
         programCategories: ["trades", "automotive", "culinary", "healthcare", "tech"],
-        website: "https://www.wsesu.org/",
+        website: "https://www.wrccvt.com/",
         notes: "Southeastern Vermont"
     }
 ];
